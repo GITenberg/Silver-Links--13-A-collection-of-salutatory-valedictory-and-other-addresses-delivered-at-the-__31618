@@ -11,6 +11,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31618#Silver-Links--13-A-collection-of-salutatory-valedictory-and-other-addresses-delivered-at-the-_
 gutenberg_issued: '2010-03-13'
 gutenberg_type: Text
 identifiers:
