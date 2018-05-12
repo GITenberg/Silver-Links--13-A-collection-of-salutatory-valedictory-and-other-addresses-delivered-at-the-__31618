@@ -1,0 +1,29 @@
+_repo: Silver-Links--13-A-collection-of-salutatory-valedictory-and-other-addresses-delivered-at-the-__31618
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Mason, W. L. (William Lesley)
+    alias: Mason, William Lesley
+    birthdate: 1861
+    gutenberg_agent_id: '42854'
+    url: http://www.gutenberg.org/2009/agents/42854
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2010-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31618'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Baccalaureate addresses -- General Society of Mechanics and Tradesmen of
+  the City of New York'
+- !lcc 'LD'
+title: "Silver Links\r\nA collection of salutatory, valedictory and other addresses\
+  \ delivered at the first five commencements of the female stenographic and typewriting\
+  \ class of the General Society of Mechanics and Tradesmen of the City of New York"
+url: http://www.gutenberg.org/ebooks/31618
